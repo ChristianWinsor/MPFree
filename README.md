@@ -33,7 +33,7 @@ MPFree minds its own business, like a tuba in a string quartet.
 - No cloud, streaming, DRM, analytics, or forced recommendations.
 - No account required, no onboarding, no lock-in.
 
-ll your music, none of our business.
+All your music, none of our business.
 ──────────────────────────────🎼──────────────────────────────
 
 ## Features

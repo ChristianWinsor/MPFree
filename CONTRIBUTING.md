@@ -6,7 +6,7 @@
 
 ## Philosophy
 
-MPFree is not just another music app — it’s a statement:
+MPFree is not just another music app:
 
 - **User files are sacred.**
 - **No hidden magic.** No cloud, no DRM, no lock-in.
@@ -43,7 +43,7 @@ Please keep these core principles in mind with every contribution!
 - **No Telemetry:** Never send, collect, or log user or device data outside local error logs.
 - **Open Code:** All logic must be readable, testable, and maintainable.
 - **No Recommendation Engine:** No ML or suggestion features.
-- **No new dependencies unless necessary** — explain need and consider portability.
+- **No new dependencies unless necessary** - explain need and consider portability.
 - **Playlists, settings, and tracks must always be visible, editable, and exportable by the user.**
 - **Favor clarity** over cleverness, and document decisions.
 
@@ -54,7 +54,7 @@ Please keep these core principles in mind with every contribution!
 - **Kotlin:** Idiomatic, Jetpack Compose for UI.
 - **Comments:** Generous but not verbose. All complex flows explained!
 - **Testability:** Business logic kept out of Activities/Fragments/Composables.
-- **Keep core logic platform-agnostic** — Android specifics belong in adapters only.
+- **Keep core logic platform-agnostic** - Android specifics belong in adapters only.
 
 ──────────────────────────────🎼──────────────────────────────
 

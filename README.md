@@ -40,10 +40,10 @@ All your music, none of our business.
 
 - Scan and index music in `/Android/media/Music/`
 - Analyze standard tags (title, artist, album, duration—no phonies!)
-- Play, pause, seek, and shuffle — Shuffle like a jazz trio dropped their sheet music
-- Create/manage local playlists — every setlist is yours
+- Play, pause, seek, and shuffle - Shuffle like a jazz trio dropped their sheet music
+- Create/manage local playlists - every setlist is yours
 - Modern minimalist UI with dark/light mode (perfect for playing in a club or in your room)
-- Full lockscreen & notification controls — even your phone wants to jam!
+- Full lockscreen & notification controls - even your phone wants to jam!
 - Friendly handling of missing tags or “mystery tracks”
 - No peeking; nothing ever leaves your device. Not even a flat note!
 
@@ -73,7 +73,7 @@ We won’t tell anyone about your guilty pleasure playlist.
 
 - Drop files into the `/Android/media/<your.package.name>/Music/` folder visible on your phone via USB or with your favorite file manager.
 - Open MPFree to play, browse, or organize your music.  
-- All playlists are simple, readable files stored in the same directory—easy to back up, move, or edit outside the app.
+- All playlists are simple, readable files stored in the same directory. Easy to back up, move, or edit outside the app.
 
 You bring the beat, we bring the player.
 ──────────────────────────────🎼──────────────────────────────

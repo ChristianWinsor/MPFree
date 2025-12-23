@@ -77,6 +77,7 @@ If you want to start a forum, open an issue and we’ll riff from there!
 All code, comments, and documentation must be compatible with the [MIT License](LICENSE).
 
 ──────────────────────────────🎼──────────────────────────────
+
 This is a volunteer project. Issues and PRs may not recieve response.
 Thank you for helping make MPFree a haven for local music lovers.
 ```

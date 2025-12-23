@@ -17,5 +17,3 @@ dependencyResolutionManagement {
 rootProject.name = "LocalMusicPlayer"
 include(":app")
 
-rootProject.name = "LocalMusicPlayer"
-include(":app")

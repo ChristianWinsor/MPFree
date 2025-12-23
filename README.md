@@ -6,7 +6,7 @@
  | |  | | |    | |  | | |  __/  __/
  |_|  |_|_|    |_|  |_|  \___|\___|
 ```
- MPFree: Let your music play free!
+  MPFree: Let your music play free!
 
                 .-.
                /'v'\

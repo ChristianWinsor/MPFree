@@ -1,6 +1,6 @@
 # Contributing to MPFree
 
-🎶 Thank you for your interest in contributing! We welcome pull requests, issue submissions, and ideas from everyone who shares our vision of music freedom and user rights.
+🎶 Thank you for your interest in contributing! We welcome pull requests, issue submissions, and ideas from everyone who shares our vision of music freedom and user rights. 🎶
 
 ──────────────────────────────🎼──────────────────────────────
 

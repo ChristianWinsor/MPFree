@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MPFree</string>
+    <string name="music_library">Music Library</string>
+    <string name="no_music_found">No music found in your MPFree folder.</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="playlist">Playlist</string>
+    <string name="new_playlist">New Playlist</string>
+    <string name="about">About</string>
+    <string name="about_message">MPFree lets you play music from your own files—no cloud, no accounts, no tracking.</string>
+    <string name="scan_error">Could not load your music files. Please check folder permissions and that there is music in your Music folder.</string>
+    <string name="your_music_safe">Your music stays in your folder. No data ever leaves your device.</string>
+</resources>
+

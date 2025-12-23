@@ -1,0 +1,5 @@
+// Top-level Gradle build file
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+

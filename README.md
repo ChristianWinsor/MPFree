@@ -39,7 +39,7 @@ All your music, none of our business.
 ## Features
 
 - Scan and index music in `/Android/media/Music/`
-- Analyze standard tags (title, artist, album, duration—no phonies!)
+- Analyze standard tags (title, artist, album, duration, no phonies!)
 - Play, pause, seek, and shuffle - Shuffle like a jazz trio dropped their sheet music
 - Create/manage local playlists - every setlist is yours
 - Modern minimalist UI with dark/light mode (perfect for playing in a club or in your room)

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="about">About</string>
+    <string name="about_message">MPFree lets you play music from your own files—no cloud, no accounts, no tracking.</string>
+    <string name="app_name">MPFree</string>
+    <string name="music_library">Music Library</string>
+    <string name="new_playlist">New Playlist</string>
+    <string name="no_music_found">No music found in your MPFree folder.</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="playlist">Playlist</string>
+    <string name="scan_error">Could not load your music files. Please check folder permissions and that there is music in your Music folder.</string>
+    <string name="your_music_safe">Your music stays in your folder. No data ever leaves your device.</string>
+    <style name="Theme.MPFree" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" ns1:targetApi="21">@color/purple_700</item>
+    </style>
+</resources>

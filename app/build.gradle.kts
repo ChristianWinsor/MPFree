@@ -1,7 +1,7 @@
 plugins {
-    id("com.android.application")
-    kotlin("android")
-    id("kotlin-parcelize")
+    id("com.android.application") version "8.2.0"
+    id("org.jetbrains.kotlin.android") version "1.9.22"
+    id("org.jetbrains.kotlin.plugin.parcelize") version "1.9.22"
 }
 
 android {
@@ -44,11 +44,6 @@ dependencies {
     implementation("androidx.compose.material3:material3:1.2.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
     implementation("com.google.android.exoplayer:exoplayer:2.19.1")
-    implementation("org.jaudiotagger:jaudiotagger:2.2.6")
-    // Optional: Hilt for DI, Gson for JSON
-    // implementation("com.google.dagger:hilt-android:2.48")
-    // kapt("com.google.dagger:hilt-compiler:2.48")
-    // implementation("com.google.code.gson:gson:2.10.1")
+    implementation("net.jthink:jaudiotagger:3.0.1")
     debugImplementation("androidx.compose.ui:ui-tooling:1.5.4")
 }
-

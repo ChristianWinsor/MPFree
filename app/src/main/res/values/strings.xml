@@ -10,4 +10,3 @@
     <string name="scan_error">Could not load your music files. Please check folder permissions and that there is music in your Music folder.</string>
     <string name="your_music_safe">Your music stays in your folder. No data ever leaves your device.</string>
 </resources>
-

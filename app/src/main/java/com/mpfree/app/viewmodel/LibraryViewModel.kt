@@ -1,0 +1,24 @@
+package com.mpfree.app.viewmodel
+
+import android.app.Application
+import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.viewModelScope
+import com.mpfree.app.core.model.Track
+import com.mpfree.app.platform.android.AndroidFileScanner
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.asStateFlow
+import kotlinx.coroutines.launch
+import java.io.File
+
+class LibraryViewModel(app: Application): AndroidViewModel(app) {
+    private val _tracks = MutableStateFlow<List<Track>>(emptyList())
+    val tracks = _tracks.asStateFlow()
+    private val scanner = AndroidFileScanner()
+
+    fun scanMusicFolder(musicDir: File) {
+        viewModelScope.launch {
+            val tracksList = scanner.scanMusicFolder(musicDir)
+            _tracks.value = tracksList
+        }
+    }
+}

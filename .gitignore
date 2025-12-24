@@ -16,9 +16,7 @@ local.properties
 # OS files
 Thumbs.db
 .DS_Store
-# Built application files
-*.apk
-*.aab
+
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -61,3 +59,5 @@ node_modules/
 
 # Others
 *.cxx/
+*.hprof
+java_pid*.hprof
